@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @DevJoeRAM
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on a psychology website
+- 👀 I'm looking to deepen my logical thinking.
+- 🌱 I’m currently learning and practicing Java.
 - 📫 How to reach me: devjoseramirez@gmail.com
-- ⚡ Fun fact: I entered a systems engineering career without knowing anything
+- ⚡ Fun fact: I entered a systems engineering career without knowing anything.
 
 <!---
 DevJoeRAM/DevJoeRAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
